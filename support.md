@@ -3,7 +3,7 @@ title: "Support"
 permalink: /support/
 ---
 
-# دعم تطبيق صلة
+# دعم تطبيق أمينو مي
 
 إذا احتجت مساعدة في تسجيل الدخول، حذف الحساب، البلاغات، الحظر، أو أي مشكلة داخل التطبيق، راسلنا على:
 
@@ -20,7 +20,7 @@ permalink: /support/
 
 ---
 
-# Sila Support
+# Amino Me Support
 
 For help with sign-in, account deletion, reports, blocking, or any in-app issue, contact:
 

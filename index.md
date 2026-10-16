@@ -1,11 +1,11 @@
 ---
-title: "Sila Legal Links"
+title: "Amino Me Legal Links"
 permalink: /
 ---
 
-# صلة - الروابط القانونية والدعم
+# أمينو مي - الروابط القانونية والدعم
 
-هذه الصفحة تجمع الروابط العامة المطلوبة لمراجعة متجر Apple وتقديم الدعم لمستخدمي تطبيق صلة.
+هذه الصفحة تجمع الروابط العامة المطلوبة لمراجعة متجر Apple وتقديم الدعم لمستخدمي تطبيق أمينو مي.
 
 ## روابط متجر Apple
 
@@ -19,17 +19,17 @@ permalink: /
 
 ## معلومات التطبيق
 
-- اسم التطبيق: صلة / Sila
+- اسم التطبيق: أمينو مي / Amino Me
 - Bundle ID: `com.sila.amino`
 - الفئة: Social Networking / Entertainment
-- العمر الأدنى: 13+
+- العمر الأدنى: 18+
 - بريد الدعم: `millervovo2016@gmail.com`
 
 ---
 
-# Sila - Legal and Support Links
+# Amino Me - Legal and Support Links
 
-This page collects the public legal and support links for Sila app review and user support.
+This page collects the public legal and support links for Amino Me app review and user support.
 
 - [Privacy Policy](/amino-url/privacy-policy/)
 - [Terms of Use](/amino-url/terms-of-use/)

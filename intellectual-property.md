@@ -15,7 +15,7 @@ permalink: /intellectual-property/
 
 ## محتوى الغير
 
-يجب ألا تنشر محتوى لا تملك حق استخدامه. إذا كنت صاحب حق وتعتقد أن محتوى داخل صلة ينتهك حقوقك، تواصل معنا على:
+يجب ألا تنشر محتوى لا تملك حق استخدامه. إذا كنت صاحب حق وتعتقد أن محتوى داخل أمينو مي ينتهك حقوقك، تواصل معنا على:
 
 `millervovo2016@gmail.com`
 
@@ -32,15 +32,15 @@ permalink: /intellectual-property/
 
 Last updated: September 5, 2026
 
-The Sila name, app design, original copy, interface, icon, and app-owned visual elements are reserved by the app owner unless otherwise stated.
+The Amino Me name, app design, original copy, interface, icon, and app-owned visual elements are reserved by the app owner unless otherwise stated.
 
 ## User Content
 
-Users keep ownership of their own content. By posting content in Sila, users grant the app a limited license to display and operate that content within the service.
+Users keep ownership of their own content. By posting content in Amino Me, users grant the app a limited license to display and operate that content within the service.
 
 ## Third-Party Content
 
-Do not post content unless you have the right to use it. If you are a rights holder and believe content in Sila infringes your rights, contact:
+Do not post content unless you have the right to use it. If you are a rights holder and believe content in Amino Me infringes your rights, contact:
 
 `millervovo2016@gmail.com`
 

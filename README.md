@@ -1,6 +1,6 @@
-# Sila Legal Links
+# Amino Me Legal Links
 
-Public legal and support pages for Sila.
+Public legal and support pages for Amino Me.
 
 - Privacy Policy: https://issaalhilali.github.io/amino-url/privacy-policy/
 - Terms of Use: https://issaalhilali.github.io/amino-url/terms-of-use/
