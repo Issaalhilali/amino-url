@@ -3,9 +3,9 @@ title: "Community Guidelines"
 permalink: /community-guidelines/
 ---
 
-# إرشادات مجتمع أمينو مي
+# إرشادات مجتمع أنيمو مي
 
-أمينو مي مساحة اجتماعية لعشاق الأنمي والمجتمعات العربية. للحفاظ على تجربة آمنة، يجب الالتزام بما يلي:
+أنيمو مي مساحة اجتماعية لعشاق الأنمي والمجتمعات العربية. للحفاظ على تجربة آمنة، يجب الالتزام بما يلي:
 
 - الاحترام واجب في المنشورات، التعليقات، الرسائل، والغرف.
 - لا يسمح بالتحرش، التهديد، خطاب الكراهية، أو استهداف الأشخاص.
@@ -15,7 +15,7 @@ permalink: /community-guidelines/
 - لا تنشر سبويلرات مؤذية عمدا في الأماكن غير المناسبة.
 - استخدم أدوات البلاغ والحظر عند الحاجة.
 
-قد يراجع فريق أمينو مي البلاغات ويتخذ إجراءات تشمل إزالة المحتوى، تقييد الحساب، أو حذف الحساب.
+قد يراجع فريق أنيمو مي البلاغات ويتخذ إجراءات تشمل إزالة المحتوى، تقييد الحساب، أو حذف الحساب.
 
 للتواصل بخصوص بلاغ أو شكوى:
 
@@ -23,9 +23,9 @@ permalink: /community-guidelines/
 
 ---
 
-# Amino Me Community Guidelines
+# Animo Me Community Guidelines
 
-Amino Me is a social space for anime fans and Arabic communities. To keep the app safe:
+Animo Me is a social space for anime fans and Arabic communities. To keep the app safe:
 
 - Be respectful in posts, comments, messages, and rooms.
 - Harassment, threats, hate speech, and targeted abuse are not allowed.
@@ -35,7 +35,7 @@ Amino Me is a social space for anime fans and Arabic communities. To keep the ap
 - Do not intentionally post harmful spoilers in inappropriate places.
 - Use report and block tools when needed.
 
-Amino Me may review reports and take action, including content removal, account restrictions, or account deletion.
+Animo Me may review reports and take action, including content removal, account restrictions, or account deletion.
 
 For reports or complaints:
 

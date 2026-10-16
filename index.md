@@ -1,11 +1,11 @@
 ---
-title: "Amino Me Legal Links"
+title: "Animo Me Legal Links"
 permalink: /
 ---
 
-# أمينو مي - الروابط القانونية والدعم
+# أنيمو مي - الروابط القانونية والدعم
 
-هذه الصفحة تجمع الروابط العامة المطلوبة لمراجعة متجر Apple وتقديم الدعم لمستخدمي تطبيق أمينو مي.
+هذه الصفحة تجمع الروابط العامة المطلوبة لمراجعة متجر Apple وتقديم الدعم لمستخدمي تطبيق أنيمو مي.
 
 ## روابط متجر Apple
 
@@ -19,7 +19,7 @@ permalink: /
 
 ## معلومات التطبيق
 
-- اسم التطبيق: أمينو مي / Amino Me
+- اسم التطبيق: أنيمو مي / Animo Me
 - Bundle ID: `com.sila.amino`
 - الفئة: Social Networking / Entertainment
 - العمر الأدنى: 18+
@@ -27,9 +27,9 @@ permalink: /
 
 ---
 
-# Amino Me - Legal and Support Links
+# Animo Me - Legal and Support Links
 
-This page collects the public legal and support links for Amino Me app review and user support.
+This page collects the public legal and support links for Animo Me app review and user support.
 
 - [Privacy Policy](/amino-url/privacy-policy/)
 - [Terms of Use](/amino-url/terms-of-use/)

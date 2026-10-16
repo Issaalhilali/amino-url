@@ -3,25 +3,25 @@ title: "Contact"
 permalink: /contact/
 ---
 
-# التواصل مع أمينو مي
+# التواصل مع أنيمو مي
 
 للتواصل، الدعم، الشكاوى، أو طلبات الخصوصية:
 
 `millervovo2016@gmail.com`
 
-اسم التطبيق: أمينو مي / Amino Me
+اسم التطبيق: أنيمو مي / Animo Me
 
 Bundle ID: `com.sila.amino`
 
 ---
 
-# Contact Amino Me
+# Contact Animo Me
 
 For support, complaints, privacy requests, or general contact:
 
 `millervovo2016@gmail.com`
 
-App name: Amino Me
+App name: Animo Me
 
 Bundle ID: `com.sila.amino`
 

@@ -1,6 +1,6 @@
-# Amino Me Legal Links
+# Animo Me Legal Links
 
-Public legal and support pages for Amino Me.
+Public legal and support pages for Animo Me.
 
 - Privacy Policy: https://issaalhilali.github.io/amino-url/privacy-policy/
 - Terms of Use: https://issaalhilali.github.io/amino-url/terms-of-use/
