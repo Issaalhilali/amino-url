@@ -20,7 +20,6 @@ permalink: /
 ## معلومات التطبيق
 
 - اسم التطبيق: أنيمو مي / Animo Me
-- Bundle ID: `com.sila.amino`
 - الفئة: Social Networking / Entertainment
 - العمر الأدنى: 18+
 - بريد الدعم: `millervovo2016@gmail.com`

@@ -7,7 +7,7 @@ permalink: /privacy-policy/
 
 آخر تحديث: 5 سبتمبر 2026
 
-تشرح هذه السياسة كيف يجمع تطبيق أنيمو مي، ويدار باسم الحزمة `com.sila.amino`، بياناتك ويستخدمها ويحميها. باستخدامك للتطبيق فإنك توافق على هذه السياسة.
+تشرح هذه السياسة كيف يجمع تطبيق أنيمو مي (على iOS وأندرويد) بياناتك ويستخدمها ويحميها. باستخدامك للتطبيق فإنك توافق على هذه السياسة.
 
 ## ما البيانات التي نجمعها
 
@@ -75,7 +75,7 @@ permalink: /privacy-policy/
 
 Last updated: September 5, 2026
 
-This Privacy Policy explains how Animo Me, using bundle identifier `com.sila.amino`, collects, uses, and protects your information. By using the app, you agree to this policy.
+This Privacy Policy explains how the Animo Me app (on iOS and Android) collects, uses, and protects your information. By using the app, you agree to this policy.
 
 ## Information We Collect
 

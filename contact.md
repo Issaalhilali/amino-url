@@ -11,8 +11,6 @@ permalink: /contact/
 
 اسم التطبيق: أنيمو مي / Animo Me
 
-Bundle ID: `com.sila.amino`
-
 ---
 
 # Contact Animo Me
@@ -22,6 +20,4 @@ For support, complaints, privacy requests, or general contact:
 `millervovo2016@gmail.com`
 
 App name: Animo Me
-
-Bundle ID: `com.sila.amino`
 
