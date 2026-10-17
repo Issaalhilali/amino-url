@@ -11,7 +11,7 @@ permalink: /account-deletion/
 
 إذا لم تستطع الوصول إلى التطبيق أو احتجت مساعدة في حذف حسابك، راسلنا على:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 يرجى استخدام نفس البريد المرتبط بحسابك، أو ذكره في الرسالة، حتى نتمكن من التحقق من الطلب.
 
@@ -25,7 +25,7 @@ When you delete your account, we delete the account and associated data from act
 
 If you cannot access the app or need help deleting your account, contact:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 Please use or mention the email address linked to your account so we can verify the request.
 

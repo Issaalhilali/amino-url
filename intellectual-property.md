@@ -17,7 +17,7 @@ permalink: /intellectual-property/
 
 يجب ألا تنشر محتوى لا تملك حق استخدامه. إذا كنت صاحب حق وتعتقد أن محتوى داخل أنيمو مي ينتهك حقوقك، تواصل معنا على:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 يرجى إرفاق:
 
@@ -42,7 +42,7 @@ Users keep ownership of their own content. By posting content in Animo Me, users
 
 Do not post content unless you have the right to use it. If you are a rights holder and believe content in Animo Me infringes your rights, contact:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 Please include a description of the protected work, the content at issue, your contact information, and a statement that you are the rights holder or authorized to act for them.
 

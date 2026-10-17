@@ -7,7 +7,7 @@ permalink: /support/
 
 إذا احتجت مساعدة في تسجيل الدخول، حذف الحساب، البلاغات، الحظر، أو أي مشكلة داخل التطبيق، راسلنا على:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 يرجى إرفاق:
 
@@ -24,7 +24,7 @@ permalink: /support/
 
 For help with sign-in, account deletion, reports, blocking, or any in-app issue, contact:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 Please include your account email if available, a short description of the issue, screenshots if useful, and your device/system version for technical issues.
 

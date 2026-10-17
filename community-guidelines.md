@@ -19,7 +19,7 @@ permalink: /community-guidelines/
 
 للتواصل بخصوص بلاغ أو شكوى:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 ---
 
@@ -39,5 +39,5 @@ Animo Me may review reports and take action, including content removal, account 
 
 For reports or complaints:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 

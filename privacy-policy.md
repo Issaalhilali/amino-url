@@ -53,7 +53,7 @@ permalink: /privacy-policy/
 
 لطلب المساعدة في الوصول إلى بياناتك أو حذفها أو تصحيحها، راسلنا على:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 ## العمر الأدنى
 
@@ -67,7 +67,7 @@ permalink: /privacy-policy/
 
 لأي سؤال عن الخصوصية أو الشكاوى أو طلبات الدعم:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 ---
 
@@ -121,7 +121,7 @@ You can edit your profile information inside the app. You can also delete your a
 
 For help accessing, correcting, or deleting your information, contact us at:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 ## Third-Party Services
 
@@ -129,7 +129,7 @@ When you search for an anime title inside the app, the text you type is sent to 
 
 Community covers and icons are uploaded by community curators themselves and stored with our infrastructure provider. If you believe content in Animo Me infringes your rights, email us and we will review and remove it:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 ## Minimum Age
 
@@ -143,4 +143,4 @@ We may update this policy when the app's features or data practices change. We w
 
 For privacy questions, complaints, or support requests:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`

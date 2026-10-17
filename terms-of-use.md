@@ -43,7 +43,7 @@ permalink: /terms-of-use/
 
 لأي سؤال عن هذه الشروط:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 ---
 
@@ -83,5 +83,5 @@ Animo Me is provided as is and as available. Features may change or become tempo
 
 For questions about these Terms:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 

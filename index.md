@@ -22,7 +22,7 @@ permalink: /
 - اسم التطبيق: أنيمو مي / Animo Me
 - الفئة: Social Networking / Entertainment
 - العمر الأدنى: 18+
-- بريد الدعم: `millervovo2016@gmail.com`
+- بريد الدعم: `info@robanx.com`
 
 ---
 

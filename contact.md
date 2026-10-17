@@ -7,7 +7,7 @@ permalink: /contact/
 
 للتواصل، الدعم، الشكاوى، أو طلبات الخصوصية:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 اسم التطبيق: أنيمو مي / Animo Me
 
@@ -17,7 +17,7 @@ permalink: /contact/
 
 For support, complaints, privacy requests, or general contact:
 
-`millervovo2016@gmail.com`
+`info@robanx.com`
 
 App name: Animo Me
 
